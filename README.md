@@ -23,12 +23,13 @@ SCCN · BIDS · HED · NEMAR · Annotation Garden · OSC
 
 #### Featured Work
 
-| Project | Description |
-|---------|-------------|
-| [HBN-EEG](https://neuromechanist.github.io/data/hbn/) | FAIR implementation of the Healthy Brain Network EEG dataset; 3,600+ participants, BIDS-formatted with HED annotations |
-| [NEMAR Citations Dashboard](https://neuromechanist.github.io/data/nemar-insights/) | Interactive analysis of dataset citations and research impact within the NEMAR ecosystem |
-| [Annotation Garden](https://annotation.garden) | Open infrastructure for collaborative annotation of neuroscience stimuli |
-| [signalJourney](https://signaljourney.github.io) | Specification and toolkit for standardizing electrophysiology processing pipelines |
+**[HBN-EEG](https://neuromechanist.github.io/data/hbn/)** · FAIR implementation of the Healthy Brain Network EEG dataset; 3,600+ participants, BIDS-formatted with HED annotations
+
+**[NEMAR Citations Dashboard](https://neuromechanist.github.io/data/nemar-insights/)** · Interactive analysis of dataset citations and research impact within the NEMAR ecosystem
+
+**[Annotation Garden](https://annotation.garden)** · Open infrastructure for collaborative annotation of neuroscience stimuli
+
+**[signalJourney](https://signaljourney.github.io)** · Specification and toolkit for standardizing electrophysiology processing pipelines
 
 ---
 
