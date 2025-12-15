@@ -8,52 +8,14 @@ I develop open-source tools for biosignal analysis and contribute to neuroinform
 
 #### Affiliations
 
-<table>
-  <tr>
-    <td align="center" width="140">
-      <a href="https://sccn.ucsd.edu">
-        <img src="https://github.com/sccn.png" width="50" alt="SCCN"/><br/>
-        <sub><b>SCCN</b></sub>
-      </a><br/>
-      <sub>Project Scientist</sub>
-    </td>
-    <td align="center" width="140">
-      <a href="https://bids.neuroimaging.io">
-        <img src="https://github.com/bids-standard.png" width="50" alt="BIDS"/><br/>
-        <sub><b>BIDS</b></sub>
-      </a><br/>
-      <sub>Maintainer</sub>
-    </td>
-    <td align="center" width="140">
-      <a href="https://www.hedtags.org">
-        <img src="https://github.com/hed-standard.png" width="50" alt="HED"/><br/>
-        <sub><b>HED</b></sub>
-      </a><br/>
-      <sub>Working Group</sub>
-    </td>
-    <td align="center" width="140">
-      <a href="https://nemar.org">
-        <img src="https://github.com/nemarDatasets.png" width="50" alt="NEMAR"/><br/>
-        <sub><b>NEMAR</b></sub>
-      </a><br/>
-      <sub>Admin</sub>
-    </td>
-    <td align="center" width="140">
-      <a href="https://annotation.garden">
-        <img src="https://github.com/Annotation-Garden.png" width="50" alt="Annotation Garden"/><br/>
-        <sub><b>Annotation Garden</b></sub>
-      </a><br/>
-      <sub>Founder</sub>
-    </td>
-    <td align="center" width="140">
-      <a href="https://osc.earth">
-        <img src="https://github.com/OpenScience-Collective.png" width="50" alt="OSC"/><br/>
-        <sub><b>OpenScience Collective</b></sub>
-      </a><br/>
-      <sub>Founder</sub>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://sccn.ucsd.edu"><img src="https://github.com/sccn.png" width="50" alt="SCCN" title="SCCN · Project Scientist"/></a>&nbsp;&nbsp;
+  <a href="https://bids.neuroimaging.io"><img src="https://github.com/bids-standard.png" width="50" alt="BIDS" title="BIDS · Maintainer"/></a>&nbsp;&nbsp;
+  <a href="https://www.hedtags.org"><img src="https://github.com/hed-standard.png" width="50" alt="HED" title="HED · Working Group"/></a>&nbsp;&nbsp;
+  <a href="https://nemar.org"><img src="https://github.com/nemarDatasets.png" width="50" alt="NEMAR" title="NEMAR · Admin"/></a>&nbsp;&nbsp;
+  <a href="https://annotation.garden"><img src="https://github.com/Annotation-Garden.png" width="50" alt="Annotation Garden" title="Annotation Garden · Founder"/></a>&nbsp;&nbsp;
+  <a href="https://osc.earth"><img src="https://github.com/OpenScience-Collective.png" width="50" alt="OpenScience Collective" title="OpenScience Collective · Founder"/></a>
+</p>
 
 ---
 
@@ -62,7 +24,7 @@ I develop open-source tools for biosignal analysis and contribute to neuroinform
 | Project | Description |
 |---------|-------------|
 | [HBN-EEG](https://neuromechanist.github.io/data/hbn/) | FAIR implementation of the Healthy Brain Network EEG dataset; 3,600+ participants, BIDS-formatted with HED annotations |
-| [NEMAR](https://nemar.org) | NeuroElectroMagnetic data Archive and Tools Resource; open access platform for EEG/MEG/iEEG data |
+| [NEMAR Citations Dashboard](https://neuromechanist.github.io/data/nemar-insights/) | Interactive analysis of dataset citations and research impact within the NEMAR ecosystem |
 | [Annotation Garden](https://annotation.garden) | Open infrastructure for collaborative annotation of neuroscience stimuli |
 | [signalJourney](https://signaljourney.github.io) | Specification and toolkit for standardizing electrophysiology processing pipelines |
 
@@ -88,7 +50,7 @@ I develop open-source tools for biosignal analysis and contribute to neuroinform
 #### Research Initiatives
 
 - **[EEGManySteps](https://eegmanysteps.github.io)** - Community-driven standardization for Mobile Brain/Body Imaging
-- **[unisep](https://unisep-framework.github.io)** - Universal separation framework
+- **[unisep](https://unisep-framework.github.io)** - Universal Sensor Placement framework for annotating wearables placement
 
 ---
 
