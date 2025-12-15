@@ -12,42 +12,42 @@ I develop open-source tools for biosignal analysis and contribute to neuroinform
   <tr>
     <td align="center" width="140">
       <a href="https://sccn.ucsd.edu">
-        <img src="https://avatars.githubusercontent.com/u/3052323?s=80&v=4" width="50" alt="SCCN"/><br/>
+        <img src="https://github.com/sccn.png" width="50" alt="SCCN"/><br/>
         <sub><b>SCCN</b></sub>
       </a><br/>
       <sub>Project Scientist</sub>
     </td>
     <td align="center" width="140">
       <a href="https://bids.neuroimaging.io">
-        <img src="https://avatars.githubusercontent.com/u/43044189?s=80&v=4" width="50" alt="BIDS"/><br/>
+        <img src="https://github.com/bids-standard.png" width="50" alt="BIDS"/><br/>
         <sub><b>BIDS</b></sub>
       </a><br/>
       <sub>Maintainer</sub>
     </td>
     <td align="center" width="140">
       <a href="https://www.hedtags.org">
-        <img src="https://avatars.githubusercontent.com/u/50960621?s=80&v=4" width="50" alt="HED"/><br/>
+        <img src="https://github.com/hed-standard.png" width="50" alt="HED"/><br/>
         <sub><b>HED</b></sub>
       </a><br/>
       <sub>Working Group</sub>
     </td>
     <td align="center" width="140">
       <a href="https://nemar.org">
-        <img src="https://avatars.githubusercontent.com/u/171084191?s=80&v=4" width="50" alt="NEMAR"/><br/>
+        <img src="https://github.com/nemarDatasets.png" width="50" alt="NEMAR"/><br/>
         <sub><b>NEMAR</b></sub>
       </a><br/>
       <sub>Admin</sub>
     </td>
     <td align="center" width="140">
       <a href="https://annotation.garden">
-        <img src="https://avatars.githubusercontent.com/u/229334817?s=80&v=4" width="50" alt="Annotation Garden"/><br/>
+        <img src="https://github.com/Annotation-Garden.png" width="50" alt="Annotation Garden"/><br/>
         <sub><b>Annotation Garden</b></sub>
       </a><br/>
       <sub>Founder</sub>
     </td>
     <td align="center" width="140">
       <a href="https://osc.earth">
-        <img src="https://osc.earth/logo.svg" width="50" alt="OSC"/><br/>
+        <img src="https://github.com/OpenScience-Collective.png" width="50" alt="OSC"/><br/>
         <sub><b>OpenScience Collective</b></sub>
       </a><br/>
       <sub>Founder</sub>
