@@ -8,12 +8,52 @@ I develop open-source tools for biosignal analysis and contribute to neuroinform
 
 #### Affiliations
 
-<a href="https://sccn.ucsd.edu"><img src="https://img.shields.io/badge/SCCN-UCSD-003366?style=flat-square" alt="SCCN"></a>
-<a href="https://bids.neuroimaging.io"><img src="https://img.shields.io/badge/BIDS-Maintainer-1a5276?style=flat-square" alt="BIDS"></a>
-<a href="https://www.hedtags.org"><img src="https://img.shields.io/badge/HED-Working%20Group-2e7d32?style=flat-square" alt="HED"></a>
-<a href="https://nemar.org"><img src="https://img.shields.io/badge/NEMAR-Admin-6a1b9a?style=flat-square" alt="NEMAR"></a>
-<a href="https://annotation.garden"><img src="https://img.shields.io/badge/Annotation%20Garden-Founder-00695c?style=flat-square" alt="Annotation Garden"></a>
-<a href="https://osc.earth"><img src="https://img.shields.io/badge/OpenScience%20Collective-Member-e65100?style=flat-square" alt="OSC"></a>
+<table>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://sccn.ucsd.edu">
+        <img src="https://avatars.githubusercontent.com/u/3052323?s=80&v=4" width="50" alt="SCCN"/><br/>
+        <sub><b>SCCN</b></sub>
+      </a><br/>
+      <sub>Project Scientist</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://bids.neuroimaging.io">
+        <img src="https://avatars.githubusercontent.com/u/43044189?s=80&v=4" width="50" alt="BIDS"/><br/>
+        <sub><b>BIDS</b></sub>
+      </a><br/>
+      <sub>Maintainer</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.hedtags.org">
+        <img src="https://avatars.githubusercontent.com/u/50960621?s=80&v=4" width="50" alt="HED"/><br/>
+        <sub><b>HED</b></sub>
+      </a><br/>
+      <sub>Working Group</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://nemar.org">
+        <img src="https://avatars.githubusercontent.com/u/171084191?s=80&v=4" width="50" alt="NEMAR"/><br/>
+        <sub><b>NEMAR</b></sub>
+      </a><br/>
+      <sub>Admin</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://annotation.garden">
+        <img src="https://avatars.githubusercontent.com/u/229334817?s=80&v=4" width="50" alt="Annotation Garden"/><br/>
+        <sub><b>Annotation Garden</b></sub>
+      </a><br/>
+      <sub>Founder</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://osc.earth">
+        <img src="https://osc.earth/logo.svg" width="50" alt="OSC"/><br/>
+        <sub><b>OpenScience Collective</b></sub>
+      </a><br/>
+      <sub>Founder</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
