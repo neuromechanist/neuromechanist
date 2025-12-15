@@ -8,16 +8,16 @@ I develop open-source tools for biosignal analysis and contribute to neuroinform
 
 #### Affiliations
 
-<p>
-<a href="https://sccn.ucsd.edu"><img src="https://github.com/sccn.png" height="45" alt="SCCN"/></a> &nbsp;
-<a href="https://bids.neuroimaging.io"><img src="https://github.com/bids-standard.png" height="45" alt="BIDS"/></a> &nbsp;
-<a href="https://www.hedtags.org"><img src="https://github.com/hed-standard.png" height="45" alt="HED"/></a> &nbsp;
-<a href="https://nemar.org"><img src="https://github.com/nemarDatasets.png" height="45" alt="NEMAR"/></a> &nbsp;
-<a href="https://annotation.garden"><img src="https://github.com/Annotation-Garden.png" height="45" alt="Annotation Garden"/></a> &nbsp;
-<a href="https://osc.earth"><img src="https://github.com/OpenScience-Collective.png" height="45" alt="OSC"/></a>
-</p>
-
-SCCN · BIDS · HED · NEMAR · Annotation Garden · OSC
+<table>
+<tr>
+<td align="center" width="105"><a href="https://sccn.ucsd.edu"><img src="https://github.com/sccn.png" height="45"/></a><br/><sub><b>SCCN</b><br/>Project Scientist</sub></td>
+<td align="center" width="105"><a href="https://bids.neuroimaging.io"><img src="https://github.com/bids-standard.png" height="45"/></a><br/><sub><b>BIDS</b><br/>Maintainer</sub></td>
+<td align="center" width="105"><a href="https://www.hedtags.org"><img src="https://github.com/hed-standard.png" height="45"/></a><br/><sub><b>HED</b><br/>Working Group</sub></td>
+<td align="center" width="105"><a href="https://nemar.org"><img src="https://github.com/nemarDatasets.png" height="45"/></a><br/><sub><b>NEMAR</b><br/>Admin</sub></td>
+<td align="center" width="130"><a href="https://annotation.garden"><img src="https://github.com/Annotation-Garden.png" height="45"/></a><br/><sub><b>Annotation Garden</b><br/>Founder</sub></td>
+<td align="center" width="105"><a href="https://osc.earth"><img src="https://github.com/OpenScience-Collective.png" height="45"/></a><br/><sub><b>OSC</b><br/>Founder</sub></td>
+</tr>
+</table>
 
 ---
 
