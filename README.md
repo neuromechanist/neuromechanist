@@ -23,13 +23,24 @@ I develop open-source tools for biosignal analysis and contribute to neuroinform
 
 #### Featured Work
 
-**[HBN-EEG](https://neuromechanist.github.io/data/hbn/)** · FAIR implementation of the Healthy Brain Network EEG dataset; 3,600+ participants, BIDS-formatted with HED annotations
-
-**[NEMAR Citations Dashboard](https://neuromechanist.github.io/data/nemar-insights/)** · Interactive analysis of dataset citations and research impact within the NEMAR ecosystem
-
-**[Annotation Garden](https://annotation.garden)** · Open infrastructure for collaborative annotation of neuroscience stimuli
-
-**[signalJourney](https://signaljourney.github.io)** · Specification and toolkit for standardizing electrophysiology processing pipelines
+<table>
+<tr>
+<td width="180"><a href="https://neuromechanist.github.io/data/hbn/"><b>HBN-EEG</b></a></td>
+<td>FAIR implementation of the Healthy Brain Network EEG dataset; 3,600+ participants, BIDS-formatted with HED annotations</td>
+</tr>
+<tr>
+<td><a href="https://neuromechanist.github.io/data/nemar-insights/"><b>NEMAR Citations Dashboard</b></a></td>
+<td>Interactive analysis of dataset citations and research impact within the NEMAR ecosystem</td>
+</tr>
+<tr>
+<td><a href="https://annotation.garden"><b>Annotation Garden</b></a></td>
+<td>Open infrastructure for collaborative annotation of neuroscience stimuli</td>
+</tr>
+<tr>
+<td><a href="https://signaljourney.github.io"><b>signalJourney</b></a></td>
+<td>Specification and toolkit for standardizing electrophysiology processing pipelines</td>
+</tr>
+</table>
 
 ---
 
