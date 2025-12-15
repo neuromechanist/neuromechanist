@@ -8,14 +8,36 @@ I develop open-source tools for biosignal analysis and contribute to neuroinform
 
 #### Affiliations
 
-<a href="https://sccn.ucsd.edu"><img src="https://github.com/sccn.png" width="50" alt="SCCN"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://bids.neuroimaging.io"><img src="https://github.com/bids-standard.png" width="50" alt="BIDS"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.hedtags.org"><img src="https://github.com/hed-standard.png" width="50" alt="HED"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://nemar.org"><img src="https://github.com/nemarDatasets.png" width="50" alt="NEMAR"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://annotation.garden"><img src="https://github.com/Annotation-Garden.png" width="50" alt="Annotation Garden"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://osc.earth"><img src="https://github.com/OpenScience-Collective.png" width="50" alt="OpenScience Collective"/></a>
-
-<sub>**SCCN** · Project Scientist &nbsp;|&nbsp; **BIDS** · Maintainer &nbsp;|&nbsp; **HED** · Working Group &nbsp;|&nbsp; **NEMAR** · Admin &nbsp;|&nbsp; **Annotation Garden** · Founder &nbsp;|&nbsp; **OSC** · Founder</sub>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="bottom" width="100">
+      <a href="https://sccn.ucsd.edu"><img src="https://github.com/sccn.png" width="50" alt="SCCN"/></a>
+    </td>
+    <td align="center" valign="bottom" width="100">
+      <a href="https://bids.neuroimaging.io"><img src="https://github.com/bids-standard.png" width="50" alt="BIDS"/></a>
+    </td>
+    <td align="center" valign="bottom" width="100">
+      <a href="https://www.hedtags.org"><img src="https://github.com/hed-standard.png" width="50" alt="HED"/></a>
+    </td>
+    <td align="center" valign="bottom" width="100">
+      <a href="https://nemar.org"><img src="https://github.com/nemarDatasets.png" width="50" alt="NEMAR"/></a>
+    </td>
+    <td align="center" valign="bottom" width="130">
+      <a href="https://annotation.garden"><img src="https://github.com/Annotation-Garden.png" width="50" alt="Annotation Garden"/></a>
+    </td>
+    <td align="center" valign="bottom" width="100">
+      <a href="https://osc.earth"><img src="https://github.com/OpenScience-Collective.png" width="50" alt="OSC"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>SCCN</b><br/>Project Scientist</sub></td>
+    <td align="center"><sub><b>BIDS</b><br/>Maintainer</sub></td>
+    <td align="center"><sub><b>HED</b><br/>Working Group</sub></td>
+    <td align="center"><sub><b>NEMAR</b><br/>Admin</sub></td>
+    <td align="center"><sub><b>Annotation Garden</b><br/>Founder</sub></td>
+    <td align="center"><sub><b>OSC</b><br/>Founder</sub></td>
+  </tr>
+</table>
 
 ---
 
