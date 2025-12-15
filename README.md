@@ -8,14 +8,14 @@ I develop open-source tools for biosignal analysis and contribute to neuroinform
 
 #### Affiliations
 
-<p>
-  <a href="https://sccn.ucsd.edu"><img src="https://github.com/sccn.png" width="50" alt="SCCN" title="SCCN · Project Scientist"/></a>&nbsp;&nbsp;
-  <a href="https://bids.neuroimaging.io"><img src="https://github.com/bids-standard.png" width="50" alt="BIDS" title="BIDS · Maintainer"/></a>&nbsp;&nbsp;
-  <a href="https://www.hedtags.org"><img src="https://github.com/hed-standard.png" width="50" alt="HED" title="HED · Working Group"/></a>&nbsp;&nbsp;
-  <a href="https://nemar.org"><img src="https://github.com/nemarDatasets.png" width="50" alt="NEMAR" title="NEMAR · Admin"/></a>&nbsp;&nbsp;
-  <a href="https://annotation.garden"><img src="https://github.com/Annotation-Garden.png" width="50" alt="Annotation Garden" title="Annotation Garden · Founder"/></a>&nbsp;&nbsp;
-  <a href="https://osc.earth"><img src="https://github.com/OpenScience-Collective.png" width="50" alt="OpenScience Collective" title="OpenScience Collective · Founder"/></a>
-</p>
+<a href="https://sccn.ucsd.edu"><img src="https://github.com/sccn.png" width="50" alt="SCCN"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://bids.neuroimaging.io"><img src="https://github.com/bids-standard.png" width="50" alt="BIDS"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.hedtags.org"><img src="https://github.com/hed-standard.png" width="50" alt="HED"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://nemar.org"><img src="https://github.com/nemarDatasets.png" width="50" alt="NEMAR"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://annotation.garden"><img src="https://github.com/Annotation-Garden.png" width="50" alt="Annotation Garden"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://osc.earth"><img src="https://github.com/OpenScience-Collective.png" width="50" alt="OpenScience Collective"/></a>
+
+<sub>**SCCN** · Project Scientist &nbsp;|&nbsp; **BIDS** · Maintainer &nbsp;|&nbsp; **HED** · Working Group &nbsp;|&nbsp; **NEMAR** · Admin &nbsp;|&nbsp; **Annotation Garden** · Founder &nbsp;|&nbsp; **OSC** · Founder</sub>
 
 ---
 
