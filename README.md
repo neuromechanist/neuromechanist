@@ -64,7 +64,7 @@ I develop open-source tools for biosignal analysis and contribute to neuroinform
 #### Research Initiatives
 
 - **[EEGManySteps](https://eegmanysteps.github.io)** - Community-driven standardization for Mobile Brain/Body Imaging
-- **[unisep](https://unisep-framework.github.io)** - Universal Sensor Placement framework for annotating wearables placement
+- **[unisep](https://unisep-framework.github.io)** - Unified Sensor Placement framework for annotating wearables placement
 
 ---
 
