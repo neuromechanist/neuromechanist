@@ -51,8 +51,8 @@ I develop open-source tools for biosignal analysis and contribute to neuroinform
 - [Stim-BIDS Extension](https://github.com/bids-standard/bids-specification/pull/2022) - Standardizing stimulus presentation and annotation
 
 **Signal Processing**
+- [biosigio](https://github.com/neuromechanist/biosigio) - Unified biosginal exporter to EDF, Zarr, Parquet, and more.
 - [emg2mu](https://github.com/neuromechanist/emg2mu) - PyTorch-accelerated EMG decomposition
-- [emgio](https://github.com/neuromechanist/emgio) - Unified interface for EMG data formats
 - [hdEMG-Decomposition](https://github.com/neuromechanist/hdEMG-Decomposition) - ICA decomposition for high-density sEMG
 
 **AI/LLM Integration**
